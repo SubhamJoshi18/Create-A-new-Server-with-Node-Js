@@ -1,0 +1,14 @@
+{
+  "name": "first-with-node-js-buffer",
+  "version": "1.0.0",
+  "description": "Buffer",
+  "main": "buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham Johis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
